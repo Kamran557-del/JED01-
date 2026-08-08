@@ -73,5 +73,15 @@ const SHEETS = [
     name:"Tempered Glass Analysis",
     description:"Analysis and operational review.",
     url:"https://docs.google.com/spreadsheets/d/1E2HrUW5JSJL5sWDvuiFIyGJ8eJNw-V2HqHHL6e8w-14/edit?gid=1432896378#gid=1432896378"
+  },
+   {
+    department:"inventory", group:"DMR Morning call", type:"ANALYSIS",
+    name:"Daily Morning call",
+    description:"Analysis and operational review.",
+    url:"https://docs.google.com/spreadsheets/d/1VRHJ_gaSPVo7d_ZS_2bgwVWbyvT3djqSdSh6W0osEIQ/edit?gid=1755592504#gid=1755592504"
   }
+
 ];
+
+
+
