@@ -1,6 +1,6 @@
 // EDIT THIS FILE to add/change dashboard links.
 // department must match one of the IDs in index.html:
-// fc, outbound, inbound, afs, inventory, ums, tools, people, tech
+// fc,inventory,inbound,outbound,afs,ums, tools, people, tech
 
 const SHEETS = [
   // INVENTORY — JED01 & JED04 Cycle count
