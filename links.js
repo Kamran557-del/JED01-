@@ -32,9 +32,9 @@ const SHEETS = [
   // INVENTORY — ZONE TRACKING
   {
     department:"inventory", group:"Zone Tracking", type:"TRACKER",
-    name:"JED04 E-Level Clearance Tracking",
-    description:"E-level clearance and progress tracking.",
-    url:"https://docs.google.com/spreadsheets/d/15GlgCkzocKHvtGnYzzn-Xrqow17lgVKQ44hor02poWU/edit?usp=sharing"
+    name:"JED01 Deadwood,High selling",
+    description:"JED01  Deadwood,High selling, Slow moving stock analysis",
+    url:"https://docs.google.com/spreadsheets/d/1CDcfXAw1g_zqTeUV57DkRooPtbMyOy6OOnb87yPqCTU/edit?gid=0#gid=0"
   },
   {
     department:"inventory", group:"Zone Tracking", type:"TRACKER",
