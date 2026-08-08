@@ -3,30 +3,30 @@
 // fc, outbound, inbound, afs, inventory, ums, tools, people, tech
 
 const SHEETS = [
-  // INVENTORY — STOCK CONSOLIDATION
+  // INVENTORY — JED01 & JED04 Cycle count
   {
-    department:"inventory", group:"Stock Consolidation", type:"TRACKER",
-    name:"JED01  Deadwood,High selling",
-    description:"JED01  Deadwood,High selling, Slow moving stock analysis.",
-    url:"https://docs.google.com/spreadsheets/d/1CDcfXAw1g_zqTeUV57DkRooPtbMyOy6OOnb87yPqCTU/edit?gid=0#gid=0"
+    department:"inventory", group:"Cycle count", type:"TRACKER",
+    name:"H Zone Cycle Count August 2026",
+    description:"HVC cycle count",
+    url:"https://docs.google.com/spreadsheets/d/1Mtcjt2eyF9A9j7ZzbuBc39sa_VmCIhUGehhN2sbJ38c/edit?gid=1485988585#gid=1485988585"
   },
   {
-    department:"inventory", group:"Stock Consolidation", type:"TRACKER",
-    name:"JED04 Barcode Stock Consolidation — July 2026 Phase 01",
-    description:"Barcode-level stock consolidation tracker.",
-    url:"https://docs.google.com/spreadsheets/d/1G8xzf0e4bPa5sE92m4Zo82mnDiOHMcWAZk1PXA72zHc/edit?gid=0#gid=0"
+    department:"inventory", group:"Cycle count", type:"TRACKER",
+    name:"A01-B Cycle Count July 2026",
+    description:"A01-B Cycle count",
+    url:"https://docs.google.com/spreadsheets/d/1aitdu4xB3mod52E6YLXM04SLqFTf_4LEN0enPFGvJQo/edit?gid=318659203#gid=318659203"
   },
   {
-    department:"inventory", group:"Stock Consolidation", type:"TRACKER",
-    name:"JED04 Barcode Stock Consolidation — October 2025 Phase 02",
-    description:"Barcode-level consolidation and clearance tracking.",
-    url:"https://docs.google.com/spreadsheets/d/1O-0nBfMW73H5XGHZWhOErwxw1KbsMreMqrLPMuTe1mw/edit?usp=sharing"
+    department:"inventory", group:"Cycle count", type:"TRACKER",
+    name:"A02-A Zone Cycle Count August 2026",
+    description:"A02-A Zone Cycle count",
+    url:"https://docs.google.com/spreadsheets/d/147ckiMqkfHJOEDPIgacyVj9Dpkr3YmpasHshGOUDnYw/edit?gid=1485988585#gid=1485988585"
   },
   {
-    department:"inventory", group:"Stock Consolidation", type:"TRACKER",
-    name:"Footwear Stock Consolidation — June 2026",
-    description:"Footwear stock consolidation tracker.",
-    url:"https://docs.google.com/spreadsheets/d/19P_7fZ_DP6QewRpp2QOwYvBn2aOVDchC5-W3HcAcQ10/edit?gid=2037352706#gid=2037352706"
+    department:"inventory", group:"Cycle count", type:"TRACKER",
+    name:"JED04 CC July 2026",
+    description:"JED04 Cycle count",
+    url:"https://docs.google.com/spreadsheets/d/1BzZ-6bkFAk6KFCuFibTQ2OS4jDbYstJEMgEn5MsbB-4/edit?gid=2124386822#gid=2124386822"
   },
 
   // INVENTORY — ZONE TRACKING
