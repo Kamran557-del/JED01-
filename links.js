@@ -6,9 +6,9 @@ const SHEETS = [
   // INVENTORY — STOCK CONSOLIDATION
   {
     department:"inventory", group:"Stock Consolidation", type:"TRACKER",
-    name:"JED04 Barcode Stock Consolidation — June 2026 Phase 01",
-    description:"Barcode-level stock consolidation tracker.",
-    url:"https://docs.google.com/spreadsheets/d/1J22k-yhRxRXfMlGNWTLW0xWDuMF9Ci-rjdUIAqrVqmA/edit?gid=0#gid=0"
+    name:"JED01  Deadwood,High selling",
+    description:"JED01  Deadwood,High selling, Slow moving stock analysis.",
+    url:"https://docs.google.com/spreadsheets/d/1CDcfXAw1g_zqTeUV57DkRooPtbMyOy6OOnb87yPqCTU/edit?gid=0#gid=0"
   },
   {
     department:"inventory", group:"Stock Consolidation", type:"TRACKER",
