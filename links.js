@@ -87,7 +87,7 @@ const SHEETS = [
     description:"Putaway & JLM % Analysis operational review.",
     url:"https://docs.google.com/spreadsheets/d/1LzHfuQJR-0R6l5W6M6N2g-CBluwqZ8PMADEpQEoXcIE/edit?gid=713031848#gid=713031848"
      
-  }
+  },
 ];
 
 
