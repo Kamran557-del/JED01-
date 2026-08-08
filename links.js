@@ -75,10 +75,18 @@ const SHEETS = [
     url:"https://docs.google.com/spreadsheets/d/1E2HrUW5JSJL5sWDvuiFIyGJ8eJNw-V2HqHHL6e8w-14/edit?gid=1432896378#gid=1432896378"
   },
    {
-    department:"inventory", group:"DMR Morning call", type:"ANALYSIS",
+    department:"inventory", group:"DMR Morning call", type:"TRACKER",
     name:"Daily Morning call",
     description:"Analysis and operational review.",
     url:"https://docs.google.com/spreadsheets/d/1VRHJ_gaSPVo7d_ZS_2bgwVWbyvT3djqSdSh6W0osEIQ/edit?gid=1755592504#gid=1755592504"
+     
+  },
+  {
+    department:"inventory", group:"DMR Morning call", type:"TRACKER",
+    name:"Last 10 days putaway & JLM trend",
+    description:"Putaway & JLM % Analysis operational review.",
+    url:"https://docs.google.com/spreadsheets/d/1LzHfuQJR-0R6l5W6M6N2g-CBluwqZ8PMADEpQEoXcIE/edit?gid=713031848#gid=713031848"
+     
   }
 ];
 
