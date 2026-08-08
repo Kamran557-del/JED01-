@@ -32,9 +32,9 @@ const SHEETS = [
   // INVENTORY — ZONE TRACKING
   {
     department:"inventory", group:"Zone Tracking", type:"TRACKER",
-    name:"JED01 Deadwood,High selling",
-    description:"JED01  Deadwood,High selling, Slow moving stock analysis",
-    url:"https://docs.google.com/spreadsheets/d/1CDcfXAw1g_zqTeUV57DkRooPtbMyOy6OOnb87yPqCTU/edit?gid=0#gid=0"
+    name:"BT tracking 2026",
+    description:"Back transfer analysis",
+    url:"https://docs.google.com/spreadsheets/d/1UjlQUcrJpKwB5aLlPIqiSYAHq5DJ8KAX0odghcM6Dnc/edit?gid=0#gid=0"
   },
   {
     department:"inventory", group:"Zone Tracking", type:"TRACKER",
@@ -44,15 +44,15 @@ const SHEETS = [
   },
   {
     department:"inventory", group:"Zone Tracking", type:"TRACKER",
-    name:"A01-E Zone Consolidation — May 2026",
-    description:"A01-E zone consolidation tracker.",
-    url:"https://docs.google.com/spreadsheets/d/1mCRy-TRCtctOVYm4de3EpcpAD6d9VWTc5ighJ_SGCWA/edit?usp=sharing"
+    name:"JED04 HDR <=3 qty single location Oct 2025 ",
+    description:"JED04 HDR <=3 qty",
+    url:"https://docs.google.com/spreadsheets/d/1MB4UlRIlEqMY9OToS9__TA6E5L8UZEjfemeV3U3YLd8/edit?gid=0#gid=0"
   },
   {
     department:"inventory", group:"Zone Tracking", type:"TRACKER",
-    name:"A01-E Update for A00-G",
-    description:"Zone update and movement tracking.",
-    url:"https://docs.google.com/spreadsheets/d/1zoUVSXo7qBi_hkXQSEXJvGajEOcCWP_vc0GWdMOx1kk/edit?gid=279705112#gid=279705112"
+    name:"Grocery food items tracking_2026",
+    description:"grocery food tracking.",
+    url:"https://docs.google.com/spreadsheets/d/1qPp1PQptDKSS43XkQSi9MW5LpQ87bIPHpxNE7Z9-i5Y/edit?gid=335876408#gid=335876408"
   },
 
   // INVENTORY — TEMPERED GLASS
