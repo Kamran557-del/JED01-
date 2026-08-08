@@ -80,7 +80,6 @@ const SHEETS = [
     description:"Analysis and operational review.",
     url:"https://docs.google.com/spreadsheets/d/1VRHJ_gaSPVo7d_ZS_2bgwVWbyvT3djqSdSh6W0osEIQ/edit?gid=1755592504#gid=1755592504"
   }
-
 ];
 
 
