@@ -112,6 +112,12 @@ const SHEETS = [
     description:"Overal JLM",
     url:"https://docs.google.com/spreadsheets/d/1icooyNaJQciM1tXZ0O8VN8rYv5BrBSZTMTMSU9vXjsg/edit?gid=0#gid=0"
   },
+    {
+    department:"inventory", group:"DMR Morning call", type:"TRACKER",
+    name:"JLM Data August 2026 (JED)",
+    description:"Monthly JLM view",
+    url:"https://docs.google.com/spreadsheets/d/1WiZb98oAaS7kxIDixPUd_ywUinFOd9XGKQr9QNktrjQ/edit"
+  },
 ];
 
 
