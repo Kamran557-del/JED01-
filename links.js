@@ -36,7 +36,7 @@ const SHEETS = [
   },
   {
     department:"inventory", group:"Cycle count", type:"TRACKER",
-    name:"JED PST Week 33",
+    name:"JED EXP PST Week 33",
     description:"JED EXP PST",
     url:"https://docs.google.com/spreadsheets/d/1yqB-Q0jCz_BxIGwj8BZVsBkX1-fPR4LAgNmS_asnHNM/edit?gid=115709664#gid=115709664"
   },
