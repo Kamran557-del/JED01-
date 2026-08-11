@@ -86,6 +86,12 @@ const SHEETS = [
     description:"Analysis and operational review.",
     url:"https://docs.google.com/spreadsheets/d/1E2HrUW5JSJL5sWDvuiFIyGJ8eJNw-V2HqHHL6e8w-14/edit?gid=1432896378#gid=1432896378"
   },
+  {
+    department:"inventory", group:"DMR Morning call", type:"TRACKER",
+    name:"Action_Tracker_KSA INV",
+    description:"Action_Tracker_KSA INV Daily tracking",
+    url:"https://docs.google.com/spreadsheets/d/1KgIBsqpOC-XfjjKfPE0M5W5ImEXFPFXN8BS6aW5K2h0/edit?gid=1042309636#gid=1042309636"
+  },
    {
     department:"inventory", group:"DMR Morning call", type:"TRACKER",
     name:"Daily Morning call",
@@ -99,6 +105,12 @@ const SHEETS = [
     description:"Putaway & JLM % Analysis operational review.",
     url:"https://docs.google.com/spreadsheets/d/1LzHfuQJR-0R6l5W6M6N2g-CBluwqZ8PMADEpQEoXcIE/edit?gid=713031848#gid=713031848"
      
+  },
+   {
+    department:"inventory", group:"DMR Morning call", type:"TRACKER",
+    name:"Overall JLM 2026",
+    description:"Overal JLM",
+    url:"https://docs.google.com/spreadsheets/d/1icooyNaJQciM1tXZ0O8VN8rYv5BrBSZTMTMSU9vXjsg/edit?gid=0#gid=0"
   },
 ];
 
