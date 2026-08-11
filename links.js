@@ -5,19 +5,19 @@
 const SHEETS = [
   // INVENTORY — JED01 & JED04 Cycle count & PST 
   {
-    department:"inventory", group:"Cycle count", type:"TRACKER",
+    department:"inventory", group:"Cycle count & Weekly PST", type:"TRACKER",
     name:"H Zone Cycle Count August 2026",
     description:"HVC cycle count",
     url:"https://docs.google.com/spreadsheets/d/1Mtcjt2eyF9A9j7ZzbuBc39sa_VmCIhUGehhN2sbJ38c/edit?gid=1485988585#gid=1485988585"
   },
   {
-    department:"inventory", group:"Cycle count", type:"TRACKER",
+    department:"inventory", group:"Cycle count & Weekly PST", type:"TRACKER",
     name:"A01-B Cycle Count July 2026",
     description:"A01-B Cycle count",
     url:"https://docs.google.com/spreadsheets/d/1aitdu4xB3mod52E6YLXM04SLqFTf_4LEN0enPFGvJQo/edit?gid=318659203#gid=318659203"
   },
   {
-    department:"inventory", group:"Cycle count", type:"TRACKER",
+    department:"inventory", group:"Cycle count & Weekly PST", type:"TRACKER",
     name:"A02-A Zone Cycle Count August 2026",
     description:"A02-A Zone Cycle count",
     url:"https://docs.google.com/spreadsheets/d/147ckiMqkfHJOEDPIgacyVj9Dpkr3YmpasHshGOUDnYw/edit?gid=1485988585#gid=1485988585"
@@ -29,13 +29,13 @@ const SHEETS = [
     url:"https://docs.google.com/spreadsheets/d/1BzZ-6bkFAk6KFCuFibTQ2OS4jDbYstJEMgEn5MsbB-4/edit?gid=2124386822#gid=2124386822"
   },
   {
-    department:"inventory", group:"Cycle count", type:"TRACKER",
+    department:"inventory", group:"Cycle count & Weekly PST", type:"TRACKER",
     name:"JED PST Week 33",
     description:"JED PST",
     url:"https://docs.google.com/spreadsheets/d/1PtvFiBo7_HWcBJ25u7Dhf_Yl9ya3AoZLho847QrJBwA/edit?gid=115709664#gid=115709664"
   },
   {
-    department:"inventory", group:"Cycle count", type:"TRACKER",
+    department:"inventory", group:"Cycle count & Weekly PST", type:"TRACKER",
     name:"JED EXP PST Week 33",
     description:"JED EXP PST",
     url:"https://docs.google.com/spreadsheets/d/1yqB-Q0jCz_BxIGwj8BZVsBkX1-fPR4LAgNmS_asnHNM/edit?gid=115709664#gid=115709664"
@@ -120,5 +120,14 @@ const SHEETS = [
   },
 ];
 
+
+const SHEETS = [
+  // Fulfillment Center CT Performance
+  {
+    department:"FC CT PERFORMANCE", type:"TRACKER",
+    name:"Inventory - CT 2026",
+    description:"Inventory visibility & stock tracking",
+    url:"https://docs.google.com/spreadsheets/d/1f6YG6My5IAFe5Seo05ujeg91Wxdw0liTmQZy2Ot-s0c/edit?gid=350854682#gid=350854682"
+  },
 
 
