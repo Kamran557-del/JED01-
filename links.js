@@ -118,16 +118,12 @@ const SHEETS = [
     description:"Monthly JLM view",
     url:"https://docs.google.com/spreadsheets/d/1WiZb98oAaS7kxIDixPUd_ywUinFOd9XGKQr9QNktrjQ/edit"
   },
-];
-
-
-const SHEETS = [
-  // Fulfillment Center CT Performance
   {
-    department:"FC CT PERFORMANCE", type:"TRACKER",
+    department:"FC CT Performance", type:"TRACKER",
     name:"Inventory - CT 2026",
     description:"Inventory visibility & stock tracking",
     url:"https://docs.google.com/spreadsheets/d/1f6YG6My5IAFe5Seo05ujeg91Wxdw0liTmQZy2Ot-s0c/edit?gid=350854682#gid=350854682"
   },
+  ];
 
 
