@@ -3,7 +3,7 @@
 // fc,inventory,inbound,outbound,afs,ums, tools, people, tech
 
 const SHEETS = [
-  // INVENTORY — JED01 & JED04 Cycle count
+  // INVENTORY — JED01 & JED04 Cycle count & PST 
   {
     department:"inventory", group:"Cycle count", type:"TRACKER",
     name:"H Zone Cycle Count August 2026",
@@ -28,7 +28,19 @@ const SHEETS = [
     description:"JED04 Cycle count",
     url:"https://docs.google.com/spreadsheets/d/1BzZ-6bkFAk6KFCuFibTQ2OS4jDbYstJEMgEn5MsbB-4/edit?gid=2124386822#gid=2124386822"
   },
-
+  {
+    department:"inventory", group:"Cycle count", type:"TRACKER",
+    name:"JED PST Week 33",
+    description:"JED PST",
+    url:"https://docs.google.com/spreadsheets/d/1PtvFiBo7_HWcBJ25u7Dhf_Yl9ya3AoZLho847QrJBwA/edit?gid=115709664#gid=115709664"
+  },
+  {
+    department:"inventory", group:"Cycle count", type:"TRACKER",
+    name:"JED PST Week 33",
+    description:"JED EXP PST",
+    url:"https://docs.google.com/spreadsheets/d/1yqB-Q0jCz_BxIGwj8BZVsBkX1-fPR4LAgNmS_asnHNM/edit?gid=115709664#gid=115709664"
+  },
+  
   // INVENTORY — ZONE TRACKING
   {
     department:"inventory", group:"Zone Tracking", type:"TRACKER",
